@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LyA+XgzjUxw=",
+  "dgSpecHash": "2armNr57fOc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\matheus.schmitz\\Documents\\maui\\VeiculoAlertasMVVMApp\\VeiculoAlertasMVVMApp.csproj",
+  "projectFilePath": "C:\\Users\\matheus.schmitz\\veiculos\\VeiculoAlertasMVVMApp\\VeiculoAlertasMVVMApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matheus.schmitz\\.nuget\\packages\\googlegson\\2.11.0.3\\googlegson.2.11.0.3.nupkg.sha512",
     "C:\\Users\\matheus.schmitz\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0\\microsoft.extensions.configuration.9.0.0.nupkg.sha512",

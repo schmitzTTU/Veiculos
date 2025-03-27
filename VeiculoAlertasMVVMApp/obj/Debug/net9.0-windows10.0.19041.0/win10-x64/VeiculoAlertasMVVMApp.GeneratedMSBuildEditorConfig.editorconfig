@@ -8,7 +8,7 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VeiculoAlertasMVVMApp
-build_property.ProjectDir = C:\Users\matheus.schmitz\Documents\maui\VeiculoAlertasMVVMApp\
+build_property.ProjectDir = C:\Users\matheus.schmitz\veiculos\VeiculoAlertasMVVMApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTAotOptimizerEnabled = true
@@ -22,31 +22,31 @@ build_property.CsWinRTUseWindowsUIXamlProjections = false
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/matheus.schmitz/Documents/maui/VeiculoAlertasMVVMApp/App.xaml]
+[C:/Users/matheus.schmitz/veiculos/VeiculoAlertasMVVMApp/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = VeiculoAlertasMVVMApp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/matheus.schmitz/Documents/maui/VeiculoAlertasMVVMApp/AppShell.xaml]
+[C:/Users/matheus.schmitz/veiculos/VeiculoAlertasMVVMApp/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = VeiculoAlertasMVVMApp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/matheus.schmitz/Documents/maui/VeiculoAlertasMVVMApp/MainPage.xaml]
+[C:/Users/matheus.schmitz/veiculos/VeiculoAlertasMVVMApp/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = VeiculoAlertasMVVMApp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/matheus.schmitz/Documents/maui/VeiculoAlertasMVVMApp/Resources/Styles/Colors.xaml]
+[C:/Users/matheus.schmitz/veiculos/VeiculoAlertasMVVMApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = VeiculoAlertasMVVMApp.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/matheus.schmitz/Documents/maui/VeiculoAlertasMVVMApp/Resources/Styles/Styles.xaml]
+[C:/Users/matheus.schmitz/veiculos/VeiculoAlertasMVVMApp/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = VeiculoAlertasMVVMApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

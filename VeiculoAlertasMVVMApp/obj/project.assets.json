@@ -26406,11 +26406,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matheus.schmitz\\Documents\\maui\\VeiculoAlertasMVVMApp\\VeiculoAlertasMVVMApp.csproj",
+      "projectUniqueName": "C:\\Users\\matheus.schmitz\\veiculos\\VeiculoAlertasMVVMApp\\VeiculoAlertasMVVMApp.csproj",
       "projectName": "VeiculoAlertasMVVMApp",
-      "projectPath": "C:\\Users\\matheus.schmitz\\Documents\\maui\\VeiculoAlertasMVVMApp\\VeiculoAlertasMVVMApp.csproj",
+      "projectPath": "C:\\Users\\matheus.schmitz\\veiculos\\VeiculoAlertasMVVMApp\\VeiculoAlertasMVVMApp.csproj",
       "packagesPath": "C:\\Users\\matheus.schmitz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matheus.schmitz\\Documents\\maui\\VeiculoAlertasMVVMApp\\obj\\",
+      "outputPath": "C:\\Users\\matheus.schmitz\\veiculos\\VeiculoAlertasMVVMApp\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
