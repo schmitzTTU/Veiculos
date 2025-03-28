@@ -1,3 +1,5 @@
+namespace VeiculoAlertasMVVMApp.ViewModels;
+
 using System.ComponentModel;
 
 using System.Windows.Input;
